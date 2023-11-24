@@ -19,7 +19,7 @@ Iniciando na tecnologia, em busca de aperfeiçoamento. 🚀
 
 [![Blog](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/lucasnog#)
 [![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/lucasnog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luc4snog)
+[![Blog](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/lucasnog)
 
 
 
@@ -29,7 +29,7 @@ Iniciando na tecnologia, em busca de aperfeiçoamento. 🚀
 
 
 ### Contato:<br>
-[![blo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luc4snog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luc4snog)
 <br>
 Email:
 <br>
