@@ -27,7 +27,7 @@ Iniciando na tecnologia, em busca de aperfeiçoamento. 🚀
 
 
 ### Contato:<br>
-[![blo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-nogueira-77b906271/)
+[![blo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luc4snog)
 <br>
 Email:
 <br>
