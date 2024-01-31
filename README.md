@@ -25,7 +25,7 @@ Iniciando na tecnologia, em busca de aperfeiçoamento. 🚀
 
 #### Atualmente estou estudando
 
-[![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/lucasnog/maispraTi) [maispraTi](https://github.com/lucasnog/maispraTi)
+[![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)] Spring Batch
 
 
 ### Contato:<br>
