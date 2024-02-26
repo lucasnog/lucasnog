@@ -1,5 +1,7 @@
 # Olá! Eu sou o Lucas Nogueira. 👽✌️
 
+## ** Meu LinkedIn está temporariamente restrito(houve algum engano, não estou conseguindo acessar a conta), estou trabalhando parar desbloquearem minha conta. 
+
 Iniciando na tecnologia, em busca de aperfeiçoamento. 🚀
 <li> Desenvolvimento Beck-end;
 <li> Cursando Análise e Desenvolvimento de sistemas;
