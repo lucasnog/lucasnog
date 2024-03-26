@@ -1,7 +1,7 @@
 # Olá! Eu sou o Lucas Nogueira. 👽✌️
 
 Iniciando na tecnologia, em busca de aperfeiçoamento. 🚀
-<li> Desenvolvimento Back-end;
+<li> Desenvolvimento de Softwares;
 <li> Cursando Análise e Desenvolvimento de sistemas;
 <li> No momento estou aprofundando Java - Spring.
 
