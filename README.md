@@ -3,7 +3,7 @@
 Iniciando na tecnologia, em busca de aperfeiçoamento. 🚀
 <li> Desenvolvimento de Softwares;
 <li> Cursando Análise e Desenvolvimento de sistemas;
-<li> No momento estou aprofundando Java - Spring.
+<li> No momento estou estudando React.js
 
 <br>
 <hr>
