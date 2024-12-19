@@ -1,9 +1,8 @@
 # Olá! Eu sou o Lucas Nogueira. 👽✌️
 
-Iniciando na tecnologia, em busca de aperfeiçoamento. 🚀
-<li> Desenvolvimento de Softwares;
-<li> Cursando Análise e Desenvolvimento de sistemas;
-<li> No momento estou estudando React.js
+Em busca de conhecimento. 🚀
+<li>Desenvolvedor Full-Stack Jr.
+
 
 <br>
 <hr>
