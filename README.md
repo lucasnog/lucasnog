@@ -1,7 +1,7 @@
-# Olá! Eu sou o Lucas Nogueira. 👽✌️
+# Olá! Eu sou o Lucas 
 
 Em busca de conhecimento. 🚀
-<li>Desenvolvedor Full-Stack Jr.
+<li>Desenvolvedor Full-Stack
 
 
 <br>
